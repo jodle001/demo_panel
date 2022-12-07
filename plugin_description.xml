@@ -1,0 +1,9 @@
+<library path="libdemo_panel">
+    <class name="demo_panel/DemoPanel"
+           type="demo_panel::DemoPanel"
+           base_class_type="rviz_common::Panel">
+        <description>
+            demo_panel
+        </description>
+    </class>
+</library>
